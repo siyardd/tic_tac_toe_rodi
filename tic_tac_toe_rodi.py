@@ -1,4 +1,4 @@
-# PLAY WITH "cmd" please.
+# PLAY WITH "cmd" please...
 
 # Importing "random" and "os" packages
 import random
